@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/daniel-monsters/static/css/main.4d90395c.chunk.css",
+    "main.js": "/daniel-monsters/static/js/main.a95f6f64.chunk.js",
+    "main.js.map": "/daniel-monsters/static/js/main.a95f6f64.chunk.js.map",
+    "runtime-main.js": "/daniel-monsters/static/js/runtime-main.cf7a98b4.js",
+    "runtime-main.js.map": "/daniel-monsters/static/js/runtime-main.cf7a98b4.js.map",
+    "static/js/2.e7b871d4.chunk.js": "/daniel-monsters/static/js/2.e7b871d4.chunk.js",
+    "static/js/2.e7b871d4.chunk.js.map": "/daniel-monsters/static/js/2.e7b871d4.chunk.js.map",
+    "index.html": "/daniel-monsters/index.html",
+    "precache-manifest.c6954dca766d19b9c6e8cbc981834659.js": "/daniel-monsters/precache-manifest.c6954dca766d19b9c6e8cbc981834659.js",
+    "service-worker.js": "/daniel-monsters/service-worker.js",
+    "static/css/main.4d90395c.chunk.css.map": "/daniel-monsters/static/css/main.4d90395c.chunk.css.map",
+    "static/js/2.e7b871d4.chunk.js.LICENSE.txt": "/daniel-monsters/static/js/2.e7b871d4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf7a98b4.js",
+    "static/js/2.e7b871d4.chunk.js",
+    "static/css/main.4d90395c.chunk.css",
+    "static/js/main.a95f6f64.chunk.js"
+  ]
+}
